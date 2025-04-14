@@ -1,6 +1,6 @@
 # Proton VPN Set Up
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+![image](https://github.com/user-attachments/assets/5ead4d28-76eb-4642-ace4-9a7fbe29b425)
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
