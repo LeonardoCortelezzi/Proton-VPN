@@ -1,6 +1,6 @@
 # Proton VPN Set Up
 <p align="center">
-![image](https://github.com/user-attachments/assets/5ead4d28-76eb-4642-ace4-9a7fbe29b425)
+![image](https://github.com/user-attachments/assets/aef157f7-ad8a-41d0-8590-d90ad8197737)
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
