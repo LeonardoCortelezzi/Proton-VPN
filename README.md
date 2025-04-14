@@ -1,7 +1,7 @@
 # Proton VPN Set Up
-<p align="center">
+
 ![image](https://github.com/user-attachments/assets/aef157f7-ad8a-41d0-8590-d90ad8197737)
-</p>
+
 
 <h1>osTicket - Prerequisites and Installation</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
