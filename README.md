@@ -1,33 +1,36 @@
 # Proton VPN Set Up
 
+<div align="center">
+  
+![image](https://github.com/user-attachments/assets/54a2fe28-41e5-458d-88b4-03b7d71c2c4c)
+
+</div>
+
 ![image](https://github.com/user-attachments/assets/aef157f7-ad8a-41d0-8590-d90ad8197737)
 
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+<h1>Proton VPN - Set Up </h1>
+In this tutorial, we are going to make a VPN using Proton VPN and measure the different IP addresses.<br />
 
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+- ### [YouTube: How To Install Proton VPN](https://www.youtube.com/watch?v=5KvlVewvtUQ)
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
+- Proton VPN
+- Whatsmyipaddress.com
 
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
+<h2>Overview Steps</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Use whatsmyipaddress.com to grab your current IP address
+- Download Proton VPN then connect to any VPN
+- Use whatsmyipaddress.com to grab your new Proton VPN IP address
 
 <h2>Installation Steps</h2>
 
